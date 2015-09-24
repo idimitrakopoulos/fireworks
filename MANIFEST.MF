@@ -1,0 +1,4 @@
+[fireworks]
+version = 8.4.0.7
+revision = 39680
+buildDate = 15/02/2012 04:32:03

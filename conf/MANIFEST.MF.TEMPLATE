@@ -1,0 +1,4 @@
+[fireworks]
+version = @version@
+revision = @buildNumber@
+buildDate = @buildDate@

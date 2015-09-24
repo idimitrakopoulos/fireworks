@@ -1,0 +1,4 @@
+IC_INSTALL_DIR=/home/idimitrakopoulos/dev/projects/fireworks/trunk/src/ext-tools/oracle-instantclient-basic-sqlplus-10.2.0.4-1.i386
+export PATH=$IC_INSTALL_DIR:$PATH
+export LD_LIBRARY_PATH=$IC_INSTALL_DIR:$LD_LIBRARY_PATH
+        
